@@ -1,0 +1,58 @@
+---
+Title: Internship_Report week_1
+categories: [Internship_Report, Week_1]
+tags: [Internship_Report]
+---
+
+# Title: Project Management System
+
+## Weekly Summary:
+This week, I joined the software development team and met the other interns working on the project management system. We started by reviewing the project requirements and collaborating on designing a Figma prototype for both desktop and mobile views. Despite a day’s leave due to illness, we completed the prototype and began preparing our capstone project proposal.
+
+## Daily Logs:
+
+### Day_1:
+- Reported to the company and was assigned a workplace in the software development team.
+- Introduced to other interns, including two from Kurukshetra University, India.
+- Learned that our mentor was on leave, so starting tomorrow, Sangay and I will join the other two interns to   work together on the project management system.
+- The other interns had started the project one week earlier.
+- They shared the current progress and explained the tasks and process we need to follow.
+
+### Day_2:
+- Had a meeting with our mentor along with the four interns.
+- Mentor reviewed the progress made so far.
+- Mentor explained the project requirements for the project management system.
+- Noticed that the two interns from India were not familiar with Figma, while Sangay and I had experience with it.
+- Sangay and I offered to share our Figma knowledge with the team.
+- We all agreed to first create a Figma prototype for the website based on the project requirements.
+- Started designing the Figma prototype for the Project Management System, focusing on the desktop view.
+- Completed the Figma design for the desktop view of the project management system by the end of the day.
+
+### Day_3:
+- Started working on the Figma design for the mobile view.
+- Finished the mobile view design by the end of the day.
+- Sent home 30 minutes early due to a company meeting.
+
+### Day_4:
+- Took a leave due to severe stomach pain and diarrhea.
+- Informed the team/company about the leave in advance.
+
+### Day_5:
+- Since the Figma prototype was completed, we asked our mentor for feedback on the design.
+- Mentor informed us she would review the design on Monday.
+- With no other tasks assigned, Sangay and I worked on writing the proposal for our capstone project.
+- We didn’t have ideas for the capstone topic, so we asked our mentor for guidance.
+- Mentor suggested continuing to develop the project management system, making it more flexible and robust.
+- She mentioned that if the project succeeds, there might be future employment opportunities.
+
+## Challenges:
+- Delay in project progress due to the mentor being on leave at the start.
+- Knowledge gap in Figma among some team members, requiring knowledge sharing.
+- Limited tasks to do while waiting for mentor’s feedback on the prototype.
+- Personal health issue causing a day’s leave and temporary absence from work.
+
+## Plan for next week:
+- Begin development of the Project Management System based on the approved Figma prototype.
+- Divide development tasks among the four interns for better efficiency.
+- Focus initially on building core features like task creation, assignment, and tracking.
+- Schedule regular check-ins with the mentor for guidance and feedback.
