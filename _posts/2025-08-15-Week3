@@ -1,0 +1,55 @@
+---
+Title: Internship_Report week_2
+categories: [Internship_Report, Week_2]
+tags: [Internship_Report]
+---
+
+# Title: Project Management System
+
+## Weekly Summary:
+This week at Tech Park Private Limited (TTPL) was focused on redesigning the user interface of our Project Management System. The main task involved creating role-based designs for different users, including Admin, Project Manager, Developer, and CEO.
+
+## Daily Logs:
+
+### Day_1:
+- Represented our Figma design to the team.
+- Received feedback to create separate designs for different user roles.
+- Continued working on the Figma design.
+- Designed the interface for the Admin role.
+
+### Day_2:
+- Designed the interface for the Project Manager role.
+- Continued working on the design for other roles.
+
+### Day_3:
+- Designed the interface for the Developer role.
+- Continued working on the design for other roles.
+
+### Day_4:
+- made the design for the developer and the CEO.
+- we completed our design
+
+### Day_5:
+- Designed the interface for the Developer role and CEO role.
+- Completed the overall design for all roles.
+
+## Challenges:
+- **Designing for multiple user roles:** Creating separate interfaces for Admin, Project Manager, Developer, and CEO was challenging because each role has different needs and access levels.
+- **Maintaining consistency:** Ensuring the design looked cohesive across all roles while still meeting their specific requirements.
+- **Time management:** Balancing the detailed design work for multiple roles within the given timeframe.
+- **Incorporating feedback:** Implementing team and supervisor feedback while keeping the design functional and user-friendly.
+
+## Solution:
+- **Role-based planning:** First, analyzed the unique tasks and responsibilities of each role, then designed separate interfaces accordingly.
+- **Design system approach:** Used consistent colors, fonts, and layout patterns to maintain uniformity across all role-based designs.
+- **Prioritization and scheduling:** Broke down the design work day by day, focusing on one role at a time to manage time effectively.
+- **Iterative improvements:** Presented designs regularly to the team, gathered feedback, and refined the interface step by step.
+
+## Plan for next week:
+- Present the completed Figma designs for final approval.
+- **Start the development phase:** implement frontend components in React.
+- Set up backend functionality using Express.js.
+- Integrate APIs and manage data flow for the system.
+- Test the interfaces and functionality for all user roles.
+- Continue collaborating with the team and mentor for guidance.
+- Document development progress and design adjustments.
